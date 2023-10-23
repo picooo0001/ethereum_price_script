@@ -1,0 +1,9 @@
+{
+    "alert_price": 1500,
+    "wait_time_in_seconds_after_success": 21600,
+    "wait_time_in_seconds_after_fail": 300,
+    "discord_hook_url": "",
+    "image": "",
+    "eth_price_api": "",
+    "log_file_path": "log.txt"
+}
